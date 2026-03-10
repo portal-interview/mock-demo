@@ -1,6 +1,6 @@
 # Spotify Portal - Demo Interview
 
-> **External Candidate Handout**
+**External Candidate Handout**
 
 ---
 
