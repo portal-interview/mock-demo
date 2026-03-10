@@ -149,4 +149,4 @@ We recommend:
 
 ---
 
-*Good luck -- we're excited to see your perspective!*
+*Good luck!*
