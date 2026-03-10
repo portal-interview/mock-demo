@@ -1,4 +1,4 @@
-# Spotify Portal -- Mock Demo Interview
+# Spotify Portal - Demo Interview
 
 > **External Candidate Handout**
 
@@ -19,7 +19,7 @@ As part of your interview process, you will deliver a **20-minute demo** of a fe
 
 ## Interview Format
 
-### Part 1 -- Live Demo (20 minutes)
+### Part 1: Live Demo (20 minutes)
 
 You will demo **one** of the following:
 
@@ -40,7 +40,7 @@ Your audience will include:
 | Engineer | Technical depth & feasibility |
 | Leadership / Executive | Strategic alignment & vision |
 
-### Part 2 -- Internal Recap (10 minutes)
+### Part 2: Internal Recap (10 minutes)
 
 After the demo, you will provide an internal recap **as if speaking to Product and Engineering teams**.
 
@@ -50,7 +50,7 @@ We will be looking for:
 - Risks or gaps you identified
 - Suggested next steps
 
-### Part 3 -- Reflection & Product Feedback (10 minutes)
+### Part 3: Reflection & Product Feedback (10 minutes)
 
 We'll ask you about:
 
@@ -89,7 +89,7 @@ The Catalog is the foundational **system of record** within Portal. It provides 
 - Reduce knowledge silos
 - Standardize metadata and governance
 
-> **Documentation:** [Catalog docs](https://backstage.spotify.com/docs/portal/features/catalog/)
+> **Documentation:** [Catalog docs](https://backstage.spotify.com/docs/portal/core-features-and-plugins/catalog/)
 
 ---
 
@@ -104,7 +104,7 @@ Soundcheck is Portal's **scorecard and standards engine**. It enables organizati
 - Improve software quality
 - Drive engineering consistency at scale
 
-> **Documentation:** [Soundcheck docs](https://backstage.spotify.com/docs/portal/features/soundcheck/)
+> **Documentation:** [Soundcheck docs](https://backstage.spotify.com/docs/portal/core-features-and-plugins/soundcheck)
 
 ---
 
@@ -119,7 +119,7 @@ Portal Studio enables teams to **build, customize, and extend** their Portal exp
 - Customize internal developer experiences
 - Integrate external systems
 
-> **Documentation:** [Portal Studio docs](https://backstage.spotify.com/docs/portal/features/portal-studio/)
+> **Documentation:** [Portal Studio docs](https://backstage.spotify.com/docs/portal/portal-plugins/portal-studio)
 
 ---
 
