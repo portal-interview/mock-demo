@@ -6,7 +6,7 @@
 
 ## Overview
 
-As part of your interview process, you will deliver a **20-minute demo** of a feature within Spotify Portal to a mixed audience.
+As part of your interview process, you will deliver a **20-minute demo** of a feature within Spotify Portal to a mixed audience. We know you won't be a complete subject-matter expert in this area, and that's totally fine. 
 
 **This exercise evaluates:**
 
@@ -51,15 +51,9 @@ We will be looking for:
 - Risks or gaps you identified
 - Suggested next steps
 
-### Part 3: Reflection & Product Feedback (10 minutes)
-
-We'll ask you about:
-
-- Your experience learning the product
-- What worked well
-- What could be improved
-- Any product insights you formed
-
+### Part 3: Exercise Review (10 minutes)
+- Reflections on this demo/exercise
+  
 ---
 
 ## Demo Environment
