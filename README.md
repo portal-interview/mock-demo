@@ -25,6 +25,7 @@ You will demo **one** of the following:
 
 - **Catalog**
 - **Soundcheck**
+- **Scaffolder**
 - **Portal Studio**
 
 You may choose whether to:
@@ -108,7 +109,22 @@ Soundcheck is Portal's **scorecard and standards engine**. It enables organizati
 
 ---
 
-### 3. Portal Studio
+### 3. Scaffolder
+
+The Scaffolder is Portal's **software templating and automation engine**. It enables platform teams to create self-service templates that allow developers to spin up new projects, services, and infrastructure with golden-path defaults baked in.
+
+**It helps teams:**
+
+- Create new services and projects from standardized templates
+- Enforce organizational best practices from day one
+- Automate repetitive setup tasks (repos, CI/CD, infrastructure)
+- Reduce onboarding time for new projects and teams
+
+> **Documentation:** [Scaffolder docs](https://backstage.spotify.com/docs/portal/core-features-and-plugins/scaffolder)
+
+---
+
+### 4. Portal Studio
 
 Portal Studio enables teams to **build, customize, and extend** their Portal experience. It supports the creation of plugins, workflows, templates, and UI extensions.
 
